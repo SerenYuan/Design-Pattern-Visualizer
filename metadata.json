@@ -1,0 +1,5 @@
+{
+  "name": "Design Pattern Visualizer",
+  "description": "A comprehensive visualization tool for software design patterns, featuring UML class diagrams and role explanations for specific architectural scenarios.",
+  "requestFramePermissions": []
+}
